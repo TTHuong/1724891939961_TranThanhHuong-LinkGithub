@@ -9,3 +9,5 @@ GVHD: Ths. Nguyễn Hữu Vĩnh
 
 Mô tả: đây là ứng dụng giúp người dùng quảng bá dịch vụ cho thuê xe của mình hoặc giúp mình tìm kiếm ra những chiếc xe tốt nhất để thuê
 Chức năng: xem,xóa,sủa,tạo bài đăng,xem bản đồ, chỉ đường, bình luận, đánh giá,liên lạc, 
+
+https://github.com/TTHuong/1724891939961_TranThanhHuong-LinkGithub/issues/1#issue-891095500
